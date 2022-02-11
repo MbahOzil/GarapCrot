@@ -114,7 +114,7 @@ if($status_create !== "00"){
     $no_hp = $create_akun['member']['ponta']['phoneNumber'];
     echo "| Sukses MENDAFTAR CROTTTT...!!! \n";
     echo "| Nomer hp $no_hp \n";
-    echo "| Paswornya : Crotkan69 \n";
+    echo "| Paswordnya : Crotkan69 \n";
     echo "| Member Ponta $id_ponta \n";
     echo "| Loading voucher \n";
     sleep(4);
