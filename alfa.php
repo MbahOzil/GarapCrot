@@ -112,8 +112,9 @@ if($status_create !== "00"){
     $token = $create_akun['status']['token'];
     $id_ponta = $create_akun['member']['ponta']['accountCard'];
     $no_hp = $create_akun['member']['ponta']['phoneNumber'];
-    echo "| Sukses daftar!!! \n";
-    echo "| Nomer hp $no_hp dan password MantapJiwa \n";
+    echo "| Sukses MENDAFTAR CROTTTT...!!! \n";
+    echo "| Nomer hp $no_hp \n";
+    echo "| Paswornya : Crotkan69 \n";
     echo "| Member Ponta $id_ponta \n";
     echo "| Loading voucher \n";
     sleep(4);
